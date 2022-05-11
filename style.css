@@ -1,0 +1,16 @@
+.st0.active {
+  fill: #f30909;
+  stroke: #333;
+  stroke-width: 1;
+}
+.informacoesPaises {
+  display: none;
+}
+.informacoesPaises.active {
+   position: inherit;
+   font-size: 52px;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   display: block;
+}
